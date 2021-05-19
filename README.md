@@ -1,0 +1,2 @@
+# selfsanz
+Self bot whatsapp
